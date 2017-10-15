@@ -173,7 +173,7 @@ background:#000;
 	opacity: 0.8;
 	-webkit-transform-origin:0 0;
 	position: absolute;
-	top:178px ;
+	top:213px;
 	
 }
 .div2{
@@ -181,7 +181,7 @@ background:#000;
 	height:200px;
 	position:absolute;
 	left: 33.33%;
-	top: 180px;
+	top: 160px;
 	overflow: hidden;
 	
 }
