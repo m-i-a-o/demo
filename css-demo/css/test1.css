@@ -166,6 +166,7 @@ background:#000;
 	background-color: lightgrey;
 	/*transform:rotate(0deg);*/
 	opacity:0;
+	padding-left:200px;
 	
 }
 .div1:hover{
