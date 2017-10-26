@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>flex-demo</name>
+	<name>jQuery-demo</name>
 	<comment>Create By HBuilder</comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1508585490011</id>
+			<id>1509020559380</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
